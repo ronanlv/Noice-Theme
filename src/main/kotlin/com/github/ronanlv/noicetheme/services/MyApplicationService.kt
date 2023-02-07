@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.ronanlv.noicetheme.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.ronanlv.noicetheme.MyBundle
 
 class MyApplicationService {
 
